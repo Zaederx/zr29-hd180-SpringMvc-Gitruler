@@ -71,7 +71,7 @@ We would like to merge the changes we've applied in the `request-map` branch to 
 1. Create a new file called "file.txt" in the folder `SpringMvc_webApp`
 1. Commit the file with message "add file"
  
- (Gitruler will only let you pass question 3 if you finish questions 4 and 5, don't be alarmed if you find that the merge rule doesn't pass after committing)
+ (Gitruler will only let you pass question 3 if you finish questions 4, don't be alarmed if you find that the merge rule doesn't pass after committing)
 
 ## Merge-conflict:
 
